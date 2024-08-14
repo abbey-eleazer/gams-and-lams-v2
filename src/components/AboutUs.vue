@@ -1,6 +1,6 @@
 <script setup>
 import FooterNav from './FooterNav.vue';
-import DrawerNav from './DrawerNav.vue';
+// import DrawerNav from './DrawerNav.vue';
 </script>
 
 <template>
@@ -23,7 +23,7 @@ import DrawerNav from './DrawerNav.vue';
   </header>
 
   <main>
-    <DrawerNav />
+    <!-- <DrawerNav /> -->
     <h2 class="text-2xl capitalize mx-auto border-l-4 border-orange w-32 pl-3 mb-32 md:text-4xl md:w-44 md:font-bold md:pl-5">
       about us
     </h2>
