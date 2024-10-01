@@ -1,16 +1,52 @@
+<script setup>
+
+</script>
+
+
 <template>
-    
-  <nav>
-    <div class="bg-orange w-[50%] h-[100vh] text-center">
-      <div class="flex flex-col text-3xl gap-4 pl-12">
-        <router-link to="/" class="px-2 py-1 hover:bg-orange-200 rounded-lg font-semibold">Home</router-link>
+  <div></div>
+<!--     
+  <nav class="absolute z-[5]">
+    <div class="bg-black w-[100vw] h-[100vh] ">
+      <ul class="pt-44 flex flex-col gap-5 uppercase
+       text-4xl tracking-wide pl-12">
+        <li class="hover:text-orange" >
+          <router-link to="/">Home</router-link>
+        </li>
+        <li class="hover:text-orange"> 
+          <router-link to="/about-us" >About Us</router-link>
+        </li>
+        <li class="hover:text-orange">
+          <router-link to="/services">Interior & Exterior Painting</router-link>
+        </li>
+        <li class="hover:text-orange">
+          <router-link to="/services">Interior Decor</router-link>
+        </li>
+        <li class="hover:text-orange">
+          <router-link to="/services">5D Wallpaper Installation</router-link>
+        </li>
+        <li class="hover:text-orange">
+          <router-link to="/services"> Wallpanel & Flutter panel </router-link>
+        </li>
+        <li class="hover:text-orange">
+          <router-link to="/services"> enkako crown moulding </router-link>
+        </li>
+        <li class="hover:text-orange">
+          <router-link to="/services"> enkako window frame moulding </router-link>
+        </li>
+        <li class="hover:text-orange">
+          <router-link to="/services">POP & Plasterboard Design</router-link>
+        
+        </li>
+        <li class="hover:text-orange">
+          <router-link to="/services">Vinyl Floor Tiles & Carpets</router-link>
 
-        <router-link to="/services" class="px-2 py-1 hover:bg-orange-200 rounded-lg font-semibold">Services</router-link>
-
-        <router-link to="/about-us"  class="px-2 py-1 hover:bg-orange-200 rounded-lg font-semibold">About Us</router-link>
-
-        <router-link to="/contact-us" class="px-2 py-1 hover:bg-orange-200 rounded-lg font-semibold">Contact Us</router-link>
-      </div>
+        </li>
+        <li class="hover:text-orange" > 
+          <router-link to="/contact-us">Contact Us</router-link>
+        </li>
+        
+      </ul>
     </div>
-  </nav>
+  </nav> -->
 </template>
